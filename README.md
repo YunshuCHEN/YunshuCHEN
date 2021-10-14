@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Metrics](https://metrics.lecoq.io/YunshuCHEN?template=classic&config.timezone=Australia%2FSydney)
 <!--
 **YunshuCHEN/YunshuCHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
