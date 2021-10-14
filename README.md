@@ -1,6 +1,13 @@
-### Hi there 👋
-![Tutu's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YunshuCHEN&layout=compact&hide_border=true&langs_count=10)
-![Metrics](https://metrics.lecoq.io/YunshuCHEN?template=classic&config.timezone=Australia%2FSydney)
+### Hi there 👋 Tutu‘s Code is living here~
+<!-- [![Tutu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunshuCHEN)](https://github.com/anuraghazra/github-readme-stats)
+[![Tutu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TUTUSUE)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a> -->
+<!-- ![Metrics](https://metrics.lecoq.io/YunshuCHEN?template=classic&config.timezone=Australia%2FSydney) -->
 <!--
 **YunshuCHEN/YunshuCHEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
